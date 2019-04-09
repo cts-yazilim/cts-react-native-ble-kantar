@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNAndroidBarcodeBroadcast } = NativeModules;
+const { RNAndroidBLKantar } = NativeModules;
 
-export default RNAndroidBarcodeBroadcast;
+export default RNAndroidBLKantar;
